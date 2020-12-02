@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gracccce.plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gracccce.plugin.MyBundle
 
 class MyApplicationService {
 
